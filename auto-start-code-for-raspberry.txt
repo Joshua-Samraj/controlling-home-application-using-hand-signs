@@ -1,0 +1,10 @@
+auto start sudo code{
+nano ~/.bashrc
+/usr/bin/lxterminal
+}
+
+
+remove auto start code{
+
+rm ~/.config/lxsession/LXDE-pi/autostart
+}
