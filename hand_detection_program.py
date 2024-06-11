@@ -1,12 +1,9 @@
 import cv2
 import os
-from gpiozero import LED, Servo
-
 from cvzone.HandTrackingModule import HandDetector
-import RPi.GPIO as GPIO
+
 import pygame
 from time import sleep
-import cvzone
 
 score = 0
 count = 0
