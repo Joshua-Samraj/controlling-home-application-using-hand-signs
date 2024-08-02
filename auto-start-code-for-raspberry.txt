@@ -1,4 +1,7 @@
 auto start sudo code{
+nano ~/.config/lxsession/LXDE-pi/autostart
+@lxterminal
+
 nano ~/.bashrc
 /usr/bin/lxterminal
 }
